@@ -1,6 +1,6 @@
 <html>
     <head>
-        <h2> just do it </h2>ß
+        <h2> just do  it </h2>
     </head>
     <body>
 
@@ -10,9 +10,7 @@
         <h1> Motorcyles </h1>
         <h1> UI/UX </h1>
    
-    TIME FOR SOME VECTORS
 
-   
     <h1>The img element</h1>
 
 <img src="https://1xw7c62t8pgj1bq3qetvvsg1-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Movement-Variability.jpg">
