@@ -1,6 +1,6 @@
 <html>
     <head>
-        just do it
+        <h2> just do it </h2>ß
     </head>
     <body>
 
@@ -11,10 +11,6 @@
         <h1> UI/UX </h1>
    
     TIME FOR SOME VECTORS
-
-        <svg width="100" height="100">
-          <circle cx="50" cy="50" r="40" fill="yellow" />
-          </svg>
 
    
     <h1>The img element</h1>
